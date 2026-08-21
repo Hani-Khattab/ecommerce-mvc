@@ -1,5 +1,14 @@
+wwwroot\admin\css\adminlte.min.css
+wwwroot\admin\img\AdminLTELogo.png
+wwwroot\admin\img\user1-128x128.jpg
+wwwroot\admin\img\user2-160x160.jpg
+wwwroot\admin\img\user3-128x128.jpg
+wwwroot\admin\img\user8-128x128.jpg
+wwwroot\admin\js\adminlte.min.js
 wwwroot\css\site.css
+wwwroot\css\styles.css
 wwwroot\favicon.ico
+wwwroot\js\scripts.js
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
@@ -62,7 +71,9 @@ wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
 C:\Users\hkhattab\OneDrive - National Insurance Company\Desktop\hani\fst15\asp\MVC\projects\Ecommerce\Ecommerce\wwwroot\css\site.css
+C:\Users\hkhattab\OneDrive - National Insurance Company\Desktop\hani\fst15\asp\MVC\projects\Ecommerce\Ecommerce\wwwroot\css\styles.css
 C:\Users\hkhattab\OneDrive - National Insurance Company\Desktop\hani\fst15\asp\MVC\projects\Ecommerce\Ecommerce\wwwroot\favicon.ico
+C:\Users\hkhattab\OneDrive - National Insurance Company\Desktop\hani\fst15\asp\MVC\projects\Ecommerce\Ecommerce\wwwroot\js\scripts.js
 C:\Users\hkhattab\OneDrive - National Insurance Company\Desktop\hani\fst15\asp\MVC\projects\Ecommerce\Ecommerce\wwwroot\js\site.js
 C:\Users\hkhattab\OneDrive - National Insurance Company\Desktop\hani\fst15\asp\MVC\projects\Ecommerce\Ecommerce\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 C:\Users\hkhattab\OneDrive - National Insurance Company\Desktop\hani\fst15\asp\MVC\projects\Ecommerce\Ecommerce\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
@@ -123,3 +134,5 @@ C:\Users\hkhattab\OneDrive - National Insurance Company\Desktop\hani\fst15\asp\M
 C:\Users\hkhattab\OneDrive - National Insurance Company\Desktop\hani\fst15\asp\MVC\projects\Ecommerce\Ecommerce\wwwroot\lib\jquery\dist\jquery.slim.min.js
 C:\Users\hkhattab\OneDrive - National Insurance Company\Desktop\hani\fst15\asp\MVC\projects\Ecommerce\Ecommerce\wwwroot\lib\jquery\dist\jquery.slim.min.map
 C:\Users\hkhattab\OneDrive - National Insurance Company\Desktop\hani\fst15\asp\MVC\projects\Ecommerce\Ecommerce\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\hkhattab\OneDrive - National Insurance Company\Desktop\hani\fst15\asp\MVC\projects\Ecommerce\Ecommerce\wwwroot\admin\css\adminlte.min.css
+C:\Users\hkhattab\OneDrive - National Insurance Company\Desktop\hani\fst15\asp\MVC\projects\Ecommerce\Ecommerce\wwwroot\admin\js\adminlte.min.js
