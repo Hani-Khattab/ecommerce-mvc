@@ -208,3 +208,4 @@ C:\Users\hkhattab\OneDrive - National Insurance Company\Desktop\hani\fst15\asp\M
 C:\Users\hkhattab\OneDrive - National Insurance Company\Desktop\hani\fst15\asp\MVC\projects\Ecommerce\Ecommerce\obj\Debug\net10.0\compressed\zeqtfpxban-{0}-r6hcvku5ly-r6hcvku5ly.gz
 C:\Users\hkhattab\OneDrive - National Insurance Company\Desktop\hani\fst15\asp\MVC\projects\Ecommerce\Ecommerce\obj\Debug\net10.0\compressed\q65xylkq5g-{0}-050gf1li0j-050gf1li0j.gz
 C:\Users\hkhattab\OneDrive - National Insurance Company\Desktop\hani\fst15\asp\MVC\projects\Ecommerce\Ecommerce\obj\Debug\net10.0\compressed\ik89ugres8-{0}-7950c2etpe-7950c2etpe.gz
+C:\Users\hkhattab\OneDrive - National Insurance Company\Desktop\hani\fst15\asp\MVC\projects\Ecommerce\Ecommerce\obj\Debug\net10.0\Ecommerce.sourcelink.json
