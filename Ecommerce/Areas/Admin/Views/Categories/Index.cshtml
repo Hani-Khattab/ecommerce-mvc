@@ -25,7 +25,10 @@ else
                     <tr>
                         <td>@item.Id</td>
                         <td>@item.Name</td>
-                        <td>@item.status</td>
+                        <td>
+                            <span class="badge rounded-pill text-bg-@(item.status == Ecommerce.Enums.CategoryStatus.Active?"success": "danger")"> @item.status</span>
+     
+                        </td>
                     </tr>
                 }
             </tbody>

@@ -1,0 +1,12 @@
+﻿@model Category
+
+
+<form asp-controller="Categories" asp-action="Store" method="post">
+<div class="form-floating mb-3">
+    <input asp-for="Name" class="form-control" placeholder="Category Name">
+    <label asp-for="Name">Name</label>
+    <span asp-validation-for="Name" class="text-danger"></span>
+</div>
+
+    <button type="submit" class="btn btn-primary btn-lg">Create</button>
+</form>
