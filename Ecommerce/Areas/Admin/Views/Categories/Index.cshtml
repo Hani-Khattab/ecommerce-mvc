@@ -15,6 +15,7 @@ else
                     <th style="width: 10px" scope="col">#</th>
                     <th scope="col">Name</th>
                     <th scope="col">Status</th>
+                    <th scope="col">Action</th>
                 </tr>
             </thead>
             <tbody>
@@ -28,6 +29,10 @@ else
                         <td>
                             <span class="badge rounded-pill text-bg-@(item.status == Ecommerce.Enums.CategoryStatus.Active?"success": "danger")"> @item.status</span>
      
+                        </td>
+
+                        <td>
+                            <a asp-controller="Categories" asp-action="delete" asp-route-id="@item.Id" type="button" class="btn btn-danger mb-2">Delete</a>
                         </td>
                     </tr>
                 }
